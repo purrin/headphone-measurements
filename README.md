@@ -4,15 +4,20 @@
 
 I will be providing only SBAF compensated measurements for now using the MiniDSP EARS.
 
-The file naming conventions will be as follows:
 
+## File Naming Conventions and Format
+
+The file naming conventions will be as follows:
 
 EARS31L-DanClarkAudio-EtherFlow.txt
 
-Coupler|CompensationVersion|Channel|Manfuacturer|Headphone|.txt
+Coupler|CompensationVersion|Channel|-|Manfuacturer|Headphone|.txt
+
+The file will have two columns separated by a tab character:
+Frequency Response and Amplitude
 
 
-The SBAF compensation using a MiniDSP EARS
+## Notes about SBAF compensation using a MiniDSP EARS
 
 This compensation is an attempt to have a straight line across as perceptive neutral. Read about it here:
 https://www.superbestaudiofriends.org/index.php?threads/minidsp-ears-deriving-sbaf-compensations-from-minidsp-files.7067/
