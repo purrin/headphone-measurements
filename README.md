@@ -8,6 +8,7 @@ The file naming conventions will be as follows:
 
 
 EARS31L-DanClarkAudio-EtherFlow.txt
+
 Coupler|CompensationVersion|Channel|Manfuacturer|Headphone|.txt
 
 
