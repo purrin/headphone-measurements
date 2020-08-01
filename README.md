@@ -6,16 +6,9 @@ I will be providing only SBAF compensated measurements for now using the MiniDSP
 
 The file naming conventions will be as follows:
 
+
 EARS31L-DanClarkAudio-EtherFlow.txt
-^   ^ ^
-|   | |  
-|   | |--- Left or Right 
-|   |
-|   |------Version 3.1 of the SBAF Compensation
-|
-|----------Mini EARS
-
-
+Coupler|CompensationVersion|Channel|Manfuacturer|Headphone|.txt
 
 
 The SBAF compensation using a MiniDSP EARS
