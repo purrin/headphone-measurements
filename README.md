@@ -5,10 +5,12 @@
 
 ## File Naming Conventions and Format
 
-The file naming conventions will be as follows:
-
+The file naming conventions will be as follows:<br>
+Coupler|CompensationVersion|Channel|-|Manufacturer|Headphone|.txt<br>
+Here are some examples<br>
 EARS31L-DanClarkAudio-EtherFlow.txt<br>
-Coupler|CompensationVersion|Channel|-|Manfuacturer|Headphone|.txt
+EARS31R-Sennheiser-HD650.txt            
+
 
 The file will have two columns separated by a tab character:<br>
 Frequency Response and Amplitude<br>
