@@ -9,12 +9,14 @@ I will be providing only SBAF compensated measurements for now using the MiniDSP
 
 The file naming conventions will be as follows:
 
-EARS31L-DanClarkAudio-EtherFlow.txt
-
+EARS31L-DanClarkAudio-EtherFlow.txt<br>
 Coupler|CompensationVersion|Channel|-|Manfuacturer|Headphone|.txt
 
-The file will have two columns separated by a tab character:
-Frequency Response and Amplitude
+The file will have two columns separated by a tab character:<br>
+Frequency Response and Amplitude<br>
+20.00   -43.43<br>
+21.00   -42.32<br>
+22.00   -21.33<br>
 
 
 ## Notes about SBAF compensation using a MiniDSP EARS
