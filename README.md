@@ -9,8 +9,9 @@ The file naming conventions will be as follows:<br><br>
 <em>Coupler|CompensationVersion|Channel|-|Manufacturer|Headphone|.txt</em><br>
 
 Here are some examples:<br><br>
-EARS31L-DanClarkAudio-EtherFlow.txt<br>
-EARS31R-Sennheiser-HD650.txt            
+EAR31L-DanClarkAudio-EtherFlow.txt<br>
+EAR31R-Sennheiser-HD650.txt            
+FPC02R-Grado-SR225.txt         
 
 # File Format
 
