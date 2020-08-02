@@ -6,7 +6,7 @@
 ## File Naming Conventions
 
 The file naming conventions will be as follows:<br><br>
-Coupler|CompensationVersion|Channel|-|Manufacturer|Headphone|.txt<br><br>
+<em>Coupler|CompensationVersion|Channel|-|Manufacturer|Headphone|.txt</em><br>
 
 Here are some examples:<br><br>
 EARS31L-DanClarkAudio-EtherFlow.txt<br>
