@@ -13,7 +13,7 @@ EAR31L-DanClarkAudio-EtherFlow.txt<br>
 EAR31R-Sennheiser-HD650.txt            
 FPC02R-Grado-SR225.txt         
 
-# File Format
+## File Format
 
 The file will have two columns, frequency Response and amplitude, separated by a tab character. There will be no headers. The columns will look like this:<br>
 
@@ -34,3 +34,6 @@ In theory, applying this delta to your HEQ files should end with the same result
 https://docs.google.com/spreadsheets/d/1uUqkpD3EJMzpl8FeJbNOkjApvMKAIL3IP8Y1At_ldng/edit#gid=0
 
 The 3.1 version with the removal of the screws is currently used as of 8/1/2020
+
+
+
