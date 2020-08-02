@@ -26,6 +26,7 @@ The file will have two columns, frequency Response and amplitude, separated by a
 
 This compensation is an attempt to have a straight line across as perceptive neutral. Read about it here:
 https://www.superbestaudiofriends.org/index.php?threads/minidsp-ears-deriving-sbaf-compensations-from-minidsp-files.7067/
+The SBAF curve should be not confused with the Harmon curve from Olive and Welti. The Harmon curve is a consumer preference target.
 
 Here is a spreadsheet for anyone with a MiniDSP EARS to calibrate it to the SBAF compensation. 
 Note that all EARS units are slightly different. The spreadsheet contains a delta from my unit's provided HEQ.
